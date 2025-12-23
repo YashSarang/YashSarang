@@ -1,11 +1,6 @@
 <!--
    Profile Banner (Animated SVG via vercel.app, edit texts as needed)
 -->
-<p align="center">
-  <a href="https://yashsarang.com">
-    <img src="https://svg-banners.vercel.app/api?type=origin&text1=Yash%20Sarang&text2=Artificial%20Intelligence%20|%20Data%20Science%20|%20Researcher&width=800&height=300" alt="Yash Sarang Banner">
-  </a>
-</p>
 
 <p align="center">
   <i>Turning AI research into real-world impact</i>
@@ -129,8 +124,10 @@ _May 2020 – May 2024_
 ## Extra (Animated Visuals)
 
 <div align="center">
-  I love to party, socialise, doomscroll, and drink mildly bitter coffee.
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="360" alt="Code Animation">
+   <br>
+  I love to party, socialise, doomscroll, and drink mildly bitter coffee.
+   <br>
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="360" alt="AI Research">
 </div>
 
